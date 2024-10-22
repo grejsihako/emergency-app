@@ -1,0 +1,10 @@
+ManagerID:11111
+Name:Beni
+Password:1234
+MissionIDs:MissionID1,MissionID3,MissionID4,MissionID5,MissionID6,MissionID8
+
+ManagerID:22222
+Name:Rei
+Password:1234
+MissionIDs:MissionID2,MissionID7
+
